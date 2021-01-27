@@ -1,0 +1,20 @@
+{
+    "name": "pawel/silent",
+    "authors": [
+        {
+            "name": "Pawel Szostok",
+            "email": "pawel.szostok@icloud.com"
+        }
+    ],
+    "require": {
+
+    },
+    "files": [
+        "src/helpers/logges.php"
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\":"src"
+        }
+    }
+}

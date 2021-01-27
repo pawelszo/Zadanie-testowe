@@ -1,0 +1,30 @@
+2021-01-27-11-thPlik: ../src/logs/ApiLogs.txt Funkcja: readOdpowiedz: True
+2021-01-27-11-thPlik: ../src/logs/ApiLogs.txt Funkcja: readOdpowiedz: True
+2021-01-27-11-thPlik: ../src/logs/ApiLogs.txt Funkcja: read Odpowiedz: True
+2021-01-27 11:05:21Plik: ../src/logs/ApiLogs.txt Funkcja: read Odpowiedz: True
+2021-01-27 11:05:28 Plik: ../src/logs/ApiLogs.txt Funkcja: read Odpowiedz: True
+2021-01-27 11:05:57 Plik: /Applications/XAMPP/xamppfiles/htdocs/src/Controller/Api/ApiPracownik.php Funkcja: read Odpowiedz: True
+2021-01-27 02:29:41 Plik: /var/www/html/src/Controller/Api/ApiPracownik.php Funkcja: read Odpowiedz: None
+2021-01-27 02:30:00 Plik: /var/www/html/src/Controller/Api/ApiPracownik.php Funkcja: read Odpowiedz: None
+2021-01-27 02:56:25 Plik: /var/www/html/src/Controller/Api/ApiPracownik.php Funkcja: read Odpowiedz: None
+2021-01-27 02:56:31 Plik: /var/www/html/src/Controller/Api/ApiPracownik.php Funkcja: read Odpowiedz: None
+2021-01-27 02:57:00 Plik: /var/www/html/src/Controller/Api/ApiPracownik.php Funkcja: read Odpowiedz: None
+2021-01-27 02:57:45 Plik: /var/www/html/src/Controller/Api/ApiPracownik.php Funkcja: read Odpowiedz: None
+2021-01-27 02:58:34 Plik: /var/www/html/src/Controller/Api/ApiPracownik.php Funkcja: read Odpowiedz: None
+2021-01-27 02:58:35 Plik: /var/www/html/src/Controller/Api/ApiPracownik.php Funkcja: read Odpowiedz: None
+2021-01-27 02:58:35 Plik: /var/www/html/src/Controller/Api/ApiPracownik.php Funkcja: read Odpowiedz: None
+2021-01-27 02:58:38 Plik: /var/www/html/src/Controller/Api/ApiPracownik.php Funkcja: read Odpowiedz: None
+2021-01-27 02:59:33 Plik: /var/www/html/src/Controller/Api/ApiPracownik.php Funkcja: read Odpowiedz: None
+2021-01-27 02:59:42 Plik: /var/www/html/src/Controller/Api/ApiPracownik.php Funkcja: read Odpowiedz: None
+2021-01-27 03:01:30 Plik: /var/www/html/src/Controller/Api/ApiPracownik.php Funkcja: read Odpowiedz: None
+2021-01-27 03:04:08 Plik: /var/www/html/src/Controller/Api/ApiPracownik.php Funkcja: read Odpowiedz: None
+2021-01-27 03:04:11 Plik: /var/www/html/src/Controller/Api/ApiPracownik.php Funkcja: read Odpowiedz: None
+2021-01-27 03:09:28 Plik: /var/www/html/src/Controller/Api/ApiPracownik.php Funkcja: read Odpowiedz: None
+2021-01-27 03:09:32 Plik: /var/www/html/src/Controller/Api/ApiPracownik.php Funkcja: read Odpowiedz: None
+2021-01-27 03:12:47 Plik: /var/www/html/src/Controller/Api/ApiPracownik.php Funkcja: read Odpowiedz: None
+2021-01-27 03:40:47 Plik: /var/www/html/src/Controller/Api/ApiPracownik.php Funkcja: read Odpowiedz: None
+2021-01-27 03:42:35 Plik: /var/www/html/src/Controller/Api/ApiPracownik.php Funkcja: read Odpowiedz: None
+2021-01-27 04:04:20 Plik: /var/www/html/src/Controller/Api/ApiPracownik.php Funkcja: read Odpowiedz: None
+2021-01-27 04:04:21 Plik: /var/www/html/src/Controller/Api/ApiPracownik.php Funkcja: read Odpowiedz: None
+2021-01-27 04:41:23 Plik: /var/www/html/src/Controller/Api/ApiPracownik.php Funkcja: read Odpowiedz: None
+2021-01-27 04:41:31 Plik: /var/www/html/src/Controller/Api/ApiPracownik.php Funkcja: read Odpowiedz: None
